@@ -5,4 +5,4 @@ Currently learning C and Java, with an emphasis on OOP.
 
 I’m interested in programming and software engineering. Other interests include music, rock climbing, and gaming.
 
-You can reach me at thanhela21@student.oulu.fi
+You can reach me at thanhela21@student.oulu.fi and www.linkedin.com/in/hanhela-tommi
