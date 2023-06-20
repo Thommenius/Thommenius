@@ -1,9 +1,16 @@
-Hi, I’m Tommi aka Thommenius.
+# Hi, I’m Thommenius.
 
-I’m studying Information Processing Science at the University of Oulu. Science with arctic attitude!
-Currently working with C and Java, with an emphasis on OOP.
+Student and Research Assistant at the University of Oulu.  
+- Studying Information Processing Science
+  - Programming
+  - Software Modelling
+  - Databases
+- Research Assistant at the Oulu University Secure Programming Group ([OUSPG](https://ouspg.org/))
+  - Cyber Security course development
+    - Privacy and Social Engineering
+    - Security Engineering
 
-I’m interested in programming and software engineering as well as cyber security and Linux.
+Linux, Containers, Cyber Security
 
-Other interests include music, rock climbing, and gaming.
+Other interests include music, climbing, and gaming.  
 You can reach me at tommi99@windowslive.com and www.linkedin.com/in/hanhela-tommi
