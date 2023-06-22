@@ -1,6 +1,6 @@
 # Hi, I’m Thommenius.
 
-Student and Research Assistant at the University of Oulu.  
+### Student and Research Assistant at the University of Oulu  
 - Studying Information Processing Science
   - Programming
   - Software Modelling
@@ -10,7 +10,11 @@ Student and Research Assistant at the University of Oulu.
     - Privacy and Social Engineering
     - Security Engineering
 
-Linux, Containers, Cyber Security
+### Interested in  
+- Linux, Containers and Virtual Machines
+- Ethical Hacking and Blue Teaming  
+- Music, Climbing and Gaming
 
-Other interests include music, climbing, and gaming.  
-You can reach me at tommi99@windowslive.com and www.linkedin.com/in/hanhela-tommi
+### Reach me via  
+- Email at tommi99@windowslive.com  
+- [LinkedIn](www.linkedin.com/in/hanhela-tommi)  
