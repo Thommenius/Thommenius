@@ -17,4 +17,4 @@
 
 ### Reach me via  
 - Email at tommi99@windowslive.com  
-- [LinkedIn](www.linkedin.com/in/hanhela-tommi)  
+- [LinkedIn](https://www.linkedin.com/in/hanhela-tommi/)  
