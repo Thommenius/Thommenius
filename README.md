@@ -1,20 +1,16 @@
 # Hi, I’m Thommenius.
 
-### Student and Research Assistant at the University of Oulu  
+### Student and Research Assistant at the [University of Oulu](https://www.oulu.fi/en)  
 - Studying Information Processing Science
-  - Programming
-  - Software Modelling
-  - Databases
+  - Software Development
 - Research Assistant at the Oulu University Secure Programming Group ([OUSPG](https://ouspg.org/))
-  - Cyber Security course development
-    - Privacy and Social Engineering
-    - Security Engineering
+  - Cyber Security courses
+  - Information Security and Data Protection assessment of digital health solutions (Digi-HTA)
 
 ### Interested in  
 - Linux, Containers and Virtual Machines
-- Ethical Hacking and Blue Teaming  
-- Music, Climbing and Gaming
+- General Cyber Security, Privacy and Tech
+- Music, Wall Climbing and Gaming
 
 ### Reach me via  
-- Email at tommi99@windowslive.com  
 - [LinkedIn](https://www.linkedin.com/in/hanhela-tommi/)  
